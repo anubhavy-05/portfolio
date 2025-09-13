@@ -8,3 +8,12 @@ Fully Responsive Design: Looks and works perfectly on desktops, tablets, and sma
 Intuitive Navigation: Features a smooth-scrolling interface and a mobile-friendly toggle menu for easy browsing.
 Easy to Use: The website is simple to look through. On phones, it has a special menu button that makes finding things super easy.
 Modern and Stylish Look: The website has a fresh, modern design with beautiful color blends and cool, smooth movements as you scroll.
+Responsive Design: Adapts to different screen sizes
+
+- <b> Interactive Navigation  </b>: Hover effects on menu items
+
+- <b> Social Media Integration</b>: Links to various platforms
+
+- <b> Visual Design </b>: Circular profile image with glowing effects
+
+- <b> Call-to-Action Buttons</b> : Hire Me and View Project buttons
